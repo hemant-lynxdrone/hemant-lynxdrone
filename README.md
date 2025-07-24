@@ -20,7 +20,7 @@
         <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://www.facebook.com/hramphul/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.facebook.com/hemant.ramphul/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" />
     </a>
     &nbsp;&nbsp;
